@@ -1,0 +1,18 @@
+Welcome to Infil
+
+Created by Jeremy Bassi
+
+the object of the game 
+is to hack as many targets as you can
+and extract as many credits as you can.
+
+Enter text like in the command line
+
+/free -- start a new untimed game
+/classic -- start a timed game
+
+/help -- for help with all the commands
+    of the game
+
+Good Luck!
+

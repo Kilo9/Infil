@@ -1,0 +1,26 @@
+commands:
+
+    *() indicates required arguments
+    *[] indicates optional arguments
+
+# - use in front of text to store notes 
+/notes - use to recall notes
+/delnote - deletes most recent note
+/clrnotes - deletes all notes
+/exit - exit game 
+/colorchange (bghex) (texthex) - change colors
+/cls - clear the screen
+/scan - scan for hacking targets
+/status - display current status
+/time - displays the current time or time remaining
+/bruteforce (ip address) [startVal] [endVal] - hack 
+        the code using a brute force method
+/target (targetNum) - choose a target from the scan list
+/extract (targetCode) - extract resources from a target
+/probe - find num of digits in code
+/trace - find the IP address of the target
+/intercept - attempt to recover part of code
+/upgrade [choice] - show the upgrades menu or select an
+        upgrade if argument is passed
+/exit - quit the game
+

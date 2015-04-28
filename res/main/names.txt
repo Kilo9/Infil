@@ -1,0 +1,41 @@
+Bank of America Corp.
+AIG
+Arrow Security
+Goldman Sachs
+Chase Bank
+Google
+Exxon 
+Amway Global 
+Lufthansa 
+General Motors 
+General Electric 
+Ford Motors
+Hewlett-Packard
+AT&T
+Valero Energy
+McKesson
+British Telecom
+IBM
+Cardinal Health
+UnitedHealth Group
+Wells Fargo
+Procter & Gamble
+Microsoft
+Boeing
+Northrop Grumman
+Pfizer
+PepsiCo
+Johnson & Johnson
+Dell
+Dow Chemical
+Kraft Foods
+Intel
+Merck
+UPS
+FedEx
+Lockheed Martin
+Coca-Cola
+Sunoco
+Cisco Systems
+Sears Holding
+DuPont
